@@ -1,0 +1,15 @@
+body {
+  color: red;
+}
+
+.test {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.test45 {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/*# sourceMappingURL=style.css.map */
