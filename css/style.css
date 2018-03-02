@@ -1,15 +1,7 @@
-body {
-  color: red;
-}
+body { color: red; font-size: 15px; }
 
-.test {
-  display: flex;
-  flex-wrap: wrap;
-}
+.test { display: -ms-flexbox; display: flex; -ms-flex-wrap: wrap; flex-wrap: wrap; }
 
-.test45 {
-  display: flex;
-  flex-wrap: wrap;
-}
+.test45 { display: -ms-flexbox; display: flex; -ms-flex-wrap: wrap; flex-wrap: wrap; }
 
-/*# sourceMappingURL=style.css.map */
+h1 { color: white; }
